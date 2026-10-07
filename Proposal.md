@@ -13,19 +13,35 @@
 - [frontend app](https://github.com/petazzijuann/mygamesearcher-frontend)
 - [backend app](https://github.com/petazzijuann/mygamesearcher-backend)
 
+### Aplicación desplegada
+
+- [Frontend](https://mygamesearcher-frontend.vercel.app)
+- [Backend (API)](https://mygamesearcher-backend.vercel.app)
+
+### Pull requests de la entrega
+
+- [PR backend](https://github.com/petazzijuann/mygamesearcher-backend/pulls)
+- [PR frontend](https://github.com/petazzijuann/mygamesearcher-frontend/pulls)
+
+### Documentación
+
+- [Documentación del backend](https://github.com/petazzijuann/mygamesearcher-backend/tree/main/docs)
+- [Documentación del frontend](https://github.com/petazzijuann/mygamesearcher-frontend/tree/main/docs)
+
+
 ## Tema
 
-### Descripción
+### Descripciónm  
 
-"DGame" es un sistema que busca asistir a _gamers_ en el momento de elección de un videojuego antes de jugar, centrándose en sus preferencias, necesidades y disponibilidad. Su propósito es reducir la fricción que tienen aquellos _gamers_ con una amplia variedad de opciones para seleccionar un juego para jugar, tanto individualmente como en grupo.
+"mygamesearcher" es un sistema que busca asistir a _gamers_ en el momento de elección de un videojuego antes de jugar, centrándose en sus preferencias, necesidades y disponibilidad. Su propósito es reducir la fricción que tienen aquellos _gamers_ con una amplia variedad de opciones para seleccionar un juego para jugar.
 
 ### Modelo entidad relacion
 
 ![Modelo Entidad Relación](Modelo_Entidad_Relacion.png)
 
-
 ### Modelo de dominio
-![Modelo de dominio ](Modelo_dominio.png)
+
+![Modelo de dominio](Modelo_dominio.png)
 
 ## Alcance Funcional
 
